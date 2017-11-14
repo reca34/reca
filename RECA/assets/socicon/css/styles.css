@@ -542,3 +542,31 @@
 .socicon-hellocoton:before {
   content: "\e0a7";
 }
+
+.icon-call {
+    display: inline-block;
+    vertical-align: bottom;    
+    width: 30px;
+    height: 30px;
+    background: url(file:///C|/Users/Da!/Documents/RECA/assets/images/contact-icons.png) no-repeat;
+    background-size: 250%;   
+}
+
+.icon-mail{
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: bottom;    
+    width: 30px;
+    height: 30px;
+    background: url(file:///C|/Users/Da!/Documents/RECA/assets/images/contact-icons.png) no-repeat -45px 0px;
+    background-size: 250%;
+}
+    
+.tv1-logo {
+    padding: 10px 70px; 
+}
+
+.rbc-logo {
+    padding: 10px 70px;  
+}
+     

@@ -244,7 +244,13 @@
 .navbar-toggleable-sm .nav-dropdown .dropdown-menu {
   position: absolute; }
   
-  .navbar-toggleable-sm .nav-dropdown .dropdown-submenu {
+  .img-logo {
+   height: 40px;
+   width: 60px;
+   opacity: 10%}
+
+
+.navbar-toggleable-sm .nav-dropdown .dropdown-submenu {
   left: 100%;
   margin-left: 0.125rem;
   margin-top: -1.25rem;
