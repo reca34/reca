@@ -548,18 +548,28 @@
     vertical-align: bottom;    
     width: 30px;
     height: 30px;
-    background: url(file:///C|/Users/Da!/Documents/RECA/assets/images/contact-icons.png) no-repeat;
-    background-size: 250%;   
+    background: url(../../images/contact-sprite.png) no-repeat;
+    background-size: 7em;   
 }
 
 .icon-mail{
-    margin-left: 20px;
+    margin-left: 1.5em;
     display: inline-block;
     vertical-align: bottom;    
-    width: 30px;
+    width: 40px;
     height: 30px;
-    background: url(file:///C|/Users/Da!/Documents/RECA/assets/images/contact-icons.png) no-repeat -45px 0px;
-    background-size: 250%;
+    background: url(../../images/contact-sprite.png) -30px no-repeat;
+    background-size: 6em;
+}
+
+.icon-instagram {
+    margin-left: 1em;
+    display: inline-block;
+    vertical-align: bottom;    
+    width: 40px;
+    height: 30px;
+    background: url(../../images/contact-sprite.png) -80px no-repeat;
+    background-size: 7em;
 }
     
 .tv1-logo {
